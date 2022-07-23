@@ -62,13 +62,13 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = 'Ｍｏｌｙ－Ｂｏｔ　（無ボゐ
+global.author = 'Ｍｏｌｙ－Ｂｏｔ　（無ボゐ'
 
 
 
 
 
-ig: senpai_chan_gemoy`
+`ig: senpai_chan_gemoy`
 global.wm = 'Ｍｏｌｙ－Ｂｏｔ'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
