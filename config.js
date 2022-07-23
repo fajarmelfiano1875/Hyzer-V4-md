@@ -69,7 +69,7 @@ global.author = 'Ｍｏｌｙ－Ｂｏｔ　（無ボゐ
 
 
 ig: senpai_chan_gemoy`
-global.wm = 'Ｍｏｌｙ－Ｂｏｔ　（無ボゐ）'
+global.wm = 'Ｍｏｌｙ－Ｂｏｔ'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
 global.media = 'https://telegra.ph/file/d12fe3537844d8e3080d0.jpg'
